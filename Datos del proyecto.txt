@@ -1,0 +1,9 @@
+Integrantes
+Nombre del Estudiante 01 : Kevin Caman
+Git Hub: https://github.com/KevinCaman/EPS1-Parte01.git
+
+Nombre del Estudiante 02 : Ronald Alagon
+Git Hub: https://github.com/RonaldAlagon/EPS1-Parte02.git
+
+Nombre del Estudiante 03 : Jairo Navarro
+Git Hub: https://github.com/jaironavarro/EPS1-Parte03.git
